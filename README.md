@@ -1,4 +1,4 @@
-# Página estática Tela de Login
+# Página estática - Tela de Login
 
 
 # Sobre o Projeto
